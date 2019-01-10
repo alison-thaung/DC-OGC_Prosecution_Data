@@ -1,0 +1,393 @@
+,Offense,District,Status,Activity,2016,2017
+0,Aggravated Assault,District 1,Arrest,No Papered Cases,2,3
+1,Aggravated Assault,District 1,Arrest,Papered Cases,13,22
+2,Aggravated Assault,District 1,Conviction,Jury Trial,0,0
+3,Aggravated Assault,District 1,Conviction,Court Trial,0,0
+4,Aggravated Assault,District 1,Conviction,Guilty Pleas,7,10
+5,Aggravated Assault,District 1,No Conviction,Dismissals,4,7
+6,Aggravated Assault,District 1,No Conviction,Not Guilty Verdict,0,0
+7,Aggravated Assault,District 1,In Progress,Pending Cases,2,5
+8,Aggravated Assault,District 2,Arrest,No Papered Cases,2,6
+9,Aggravated Assault,District 2,Arrest,Papered Cases,11,15
+10,Aggravated Assault,District 2,Conviction,Jury Trial,0,0
+11,Aggravated Assault,District 2,Conviction,Court Trial,0,1
+12,Aggravated Assault,District 2,Conviction,Guilty Pleas,3,4
+13,Aggravated Assault,District 2,No Conviction,Dismissals,6,5
+14,Aggravated Assault,District 2,No Conviction,Not Guilty Verdict,0,2
+15,Aggravated Assault,District 2,In Progress,Pending Cases,2,3
+16,Aggravated Assault,District 3,Arrest,No Papered Cases,0,3
+17,Aggravated Assault,District 3,Arrest,Papered Cases,19,15
+18,Aggravated Assault,District 3,Conviction,Jury Trial,0,0
+19,Aggravated Assault,District 3,Conviction,Court Trial,1,0
+20,Aggravated Assault,District 3,Conviction,Guilty Pleas,8,5
+21,Aggravated Assault,District 3,No Conviction,Dismissals,4,8
+22,Aggravated Assault,District 3,No Conviction,Not Guilty Verdict,0,0
+23,Aggravated Assault,District 3,In Progress,Pending Cases,5,2
+24,Aggravated Assault,District 4,Arrest,No Papered Cases,4,1
+25,Aggravated Assault,District 4,Arrest,Papered Cases,10,10
+26,Aggravated Assault,District 4,Conviction,Jury Trial,0,0
+27,Aggravated Assault,District 4,Conviction,Court Trial,0,0
+28,Aggravated Assault,District 4,Conviction,Guilty Pleas,2,3
+29,Aggravated Assault,District 4,No Conviction,Dismissals,6,4
+30,Aggravated Assault,District 4,No Conviction,Not Guilty Verdict,1,1
+31,Aggravated Assault,District 4,In Progress,Pending Cases,1,2
+32,Aggravated Assault,District 5,Arrest,No Papered Cases,6,4
+33,Aggravated Assault,District 5,Arrest,Papered Cases,20,11
+34,Aggravated Assault,District 5,Conviction,Jury Trial,0,0
+35,Aggravated Assault,District 5,Conviction,Court Trial,1,0
+36,Aggravated Assault,District 5,Conviction,Guilty Pleas,7,6
+37,Aggravated Assault,District 5,No Conviction,Dismissals,12,3
+38,Aggravated Assault,District 5,No Conviction,Not Guilty Verdict,0,0
+39,Aggravated Assault,District 5,In Progress,Pending Cases,0,2
+40,Aggravated Assault,District 6,Arrest,No Papered Cases,1,3
+41,Aggravated Assault,District 6,Arrest,Papered Cases,14,10
+42,Aggravated Assault,District 6,Conviction,Jury Trial,0,0
+43,Aggravated Assault,District 6,Conviction,Court Trial,2,0
+44,Aggravated Assault,District 6,Conviction,Guilty Pleas,3,5
+45,Aggravated Assault,District 6,No Conviction,Dismissals,8,5
+46,Aggravated Assault,District 6,No Conviction,Not Guilty Verdict,0,0
+47,Aggravated Assault,District 6,In Progress,Pending Cases,1,0
+48,Aggravated Assault,District 7,Arrest,No Papered Cases,8,4
+49,Aggravated Assault,District 7,Arrest,Papered Cases,26,15
+50,Aggravated Assault,District 7,Conviction,Jury Trial,0,0
+51,Aggravated Assault,District 7,Conviction,Court Trial,2,0
+52,Aggravated Assault,District 7,Conviction,Guilty Pleas,11,6
+53,Aggravated Assault,District 7,No Conviction,Dismissals,11,8
+54,Aggravated Assault,District 7,No Conviction,Not Guilty Verdict,1,0
+55,Aggravated Assault,District 7,In Progress,Pending Cases,1,1
+56,Arson,District 1,Arrest,No Papered Cases,0,0
+57,Arson,District 1,Arrest,Papered Cases,2,1
+58,Arson,District 1,Conviction,Jury Trial,0,0
+59,Arson,District 1,Conviction,Court Trial,0,0
+60,Arson,District 1,Conviction,Guilty Pleas,1,0
+61,Arson,District 1,No Conviction,Dismissals,1,0
+62,Arson,District 1,No Conviction,Not Guilty Verdict,0,0
+63,Arson,District 1,In Progress,Pending Cases,0,1
+64,Arson,District 2,Arrest,No Papered Cases,0,0
+65,Arson,District 2,Arrest,Papered Cases,0,2
+66,Arson,District 2,Conviction,Jury Trial,0,0
+67,Arson,District 2,Conviction,Court Trial,0,0
+68,Arson,District 2,Conviction,Guilty Pleas,0,2
+69,Arson,District 2,No Conviction,Dismissals,0,0
+70,Arson,District 2,No Conviction,Not Guilty Verdict,0,0
+71,Arson,District 2,In Progress,Pending Cases,0,0
+72,Arson,District 3,Arrest,No Papered Cases,0,0
+73,Arson,District 3,Arrest,Papered Cases,0,0
+74,Arson,District 3,Conviction,Jury Trial,0,0
+75,Arson,District 3,Conviction,Court Trial,0,0
+76,Arson,District 3,Conviction,Guilty Pleas,0,0
+77,Arson,District 3,No Conviction,Dismissals,0,0
+78,Arson,District 3,No Conviction,Not Guilty Verdict,0,0
+79,Arson,District 3,In Progress,Pending Cases,0,0
+80,Arson,District 4,Arrest,No Papered Cases,0,0
+81,Arson,District 4,Arrest,Papered Cases,1,5
+82,Arson,District 4,Conviction,Jury Trial,0,0
+83,Arson,District 4,Conviction,Court Trial,0,0
+84,Arson,District 4,Conviction,Guilty Pleas,0,0
+85,Arson,District 4,No Conviction,Dismissals,1,4
+86,Arson,District 4,No Conviction,Not Guilty Verdict,0,0
+87,Arson,District 4,In Progress,Pending Cases,0,1
+88,Arson,District 5,Arrest,No Papered Cases,0,0
+89,Arson,District 5,Arrest,Papered Cases,1,1
+90,Arson,District 5,Conviction,Jury Trial,0,0
+91,Arson,District 5,Conviction,Court Trial,0,0
+92,Arson,District 5,Conviction,Guilty Pleas,0,1
+93,Arson,District 5,No Conviction,Dismissals,1,0
+94,Arson,District 5,No Conviction,Not Guilty Verdict,0,0
+95,Arson,District 5,In Progress,Pending Cases,0,0
+96,Arson,District 6,Arrest,No Papered Cases,0,0
+97,Arson,District 6,Arrest,Papered Cases,2,1
+98,Arson,District 6,Conviction,Jury Trial,0,0
+99,Arson,District 6,Conviction,Court Trial,0,0
+100,Arson,District 6,Conviction,Guilty Pleas,2,1
+101,Arson,District 6,No Conviction,Dismissals,0,0
+102,Arson,District 6,No Conviction,Not Guilty Verdict,0,0
+103,Arson,District 6,In Progress,Pending Cases,0,0
+104,Arson,District 7,Arrest,No Papered Cases,0,1
+105,Arson,District 7,Arrest,Papered Cases,3,3
+106,Arson,District 7,Conviction,Jury Trial,0,0
+107,Arson,District 7,Conviction,Court Trial,0,0
+108,Arson,District 7,Conviction,Guilty Pleas,2,2
+109,Arson,District 7,No Conviction,Dismissals,1,1
+110,Arson,District 7,No Conviction,Not Guilty Verdict,0,0
+111,Arson,District 7,In Progress,Pending Cases,0,0
+112,Burglary,District 1,Arrest,No Papered Cases,7,3
+113,Burglary,District 1,Arrest,Papered Cases,67,66
+114,Burglary,District 1,Conviction,Jury Trial,1,0
+115,Burglary,District 1,Conviction,Court Trial,0,0
+116,Burglary,District 1,Conviction,Guilty Pleas,48,30
+117,Burglary,District 1,No Conviction,Dismissals,14,25
+118,Burglary,District 1,No Conviction,Not Guilty Verdict,1,1
+119,Burglary,District 1,In Progress,Pending Cases,3,10
+120,Burglary,District 2,Arrest,No Papered Cases,5,0
+121,Burglary,District 2,Arrest,Papered Cases,25,42
+122,Burglary,District 2,Conviction,Jury Trial,0,0
+123,Burglary,District 2,Conviction,Court Trial,0,0
+124,Burglary,District 2,Conviction,Guilty Pleas,13,19
+125,Burglary,District 2,No Conviction,Dismissals,11,18
+126,Burglary,District 2,No Conviction,Not Guilty Verdict,0,0
+127,Burglary,District 2,In Progress,Pending Cases,1,5
+128,Burglary,District 3,Arrest,No Papered Cases,1,0
+129,Burglary,District 3,Arrest,Papered Cases,29,20
+130,Burglary,District 3,Conviction,Jury Trial,0,0
+131,Burglary,District 3,Conviction,Court Trial,0,0
+132,Burglary,District 3,Conviction,Guilty Pleas,16,11
+133,Burglary,District 3,No Conviction,Dismissals,11,4
+134,Burglary,District 3,No Conviction,Not Guilty Verdict,0,0
+135,Burglary,District 3,In Progress,Pending Cases,2,5
+136,Burglary,District 4,Arrest,No Papered Cases,3,4
+137,Burglary,District 4,Arrest,Papered Cases,30,37
+138,Burglary,District 4,Conviction,Jury Trial,1,2
+139,Burglary,District 4,Conviction,Court Trial,0,0
+140,Burglary,District 4,Conviction,Guilty Pleas,17,20
+141,Burglary,District 4,No Conviction,Dismissals,9,10
+142,Burglary,District 4,No Conviction,Not Guilty Verdict,0,1
+143,Burglary,District 4,In Progress,Pending Cases,3,4
+144,Burglary,District 5,Arrest,No Papered Cases,11,8
+145,Burglary,District 5,Arrest,Papered Cases,63,42
+146,Burglary,District 5,Conviction,Jury Trial,1,0
+147,Burglary,District 5,Conviction,Court Trial,0,1
+148,Burglary,District 5,Conviction,Guilty Pleas,30,22
+149,Burglary,District 5,No Conviction,Dismissals,29,9
+150,Burglary,District 5,No Conviction,Not Guilty Verdict,0,0
+151,Burglary,District 5,In Progress,Pending Cases,3,10
+152,Burglary,District 6,Arrest,No Papered Cases,6,6
+153,Burglary,District 6,Arrest,Papered Cases,39,32
+154,Burglary,District 6,Conviction,Jury Trial,1,0
+155,Burglary,District 6,Conviction,Court Trial,0,0
+156,Burglary,District 6,Conviction,Guilty Pleas,24,13
+157,Burglary,District 6,No Conviction,Dismissals,9,13
+158,Burglary,District 6,No Conviction,Not Guilty Verdict,1,0
+159,Burglary,District 6,In Progress,Pending Cases,4,6
+160,Burglary,District 7,Arrest,No Papered Cases,6,5
+161,Burglary,District 7,Arrest,Papered Cases,38,37
+162,Burglary,District 7,Conviction,Jury Trial,2,0
+163,Burglary,District 7,Conviction,Court Trial,2,1
+164,Burglary,District 7,Conviction,Guilty Pleas,18,16
+165,Burglary,District 7,No Conviction,Dismissals,12,11
+166,Burglary,District 7,No Conviction,Not Guilty Verdict,0,0
+167,Burglary,District 7,In Progress,Pending Cases,2,9
+168,First Degree Sexual/Child Abuse,District 1,Arrest,No Papered Cases,3,2
+169,First Degree Sexual/Child Abuse,District 1,Arrest,Papered Cases,27,10
+170,First Degree Sexual/Child Abuse,District 1,Conviction,Jury Trial,0,0
+171,First Degree Sexual/Child Abuse,District 1,Conviction,Court Trial,0,0
+172,First Degree Sexual/Child Abuse,District 1,Conviction,Guilty Pleas,19,4
+173,First Degree Sexual/Child Abuse,District 1,No Conviction,Dismissals,6,3
+174,First Degree Sexual/Child Abuse,District 1,No Conviction,Not Guilty Verdict,0,0
+175,First Degree Sexual/Child Abuse,District 1,In Progress,Pending Cases,2,3
+176,First Degree Sexual/Child Abuse,District 2,Arrest,No Papered Cases,5,0
+177,First Degree Sexual/Child Abuse,District 2,Arrest,Papered Cases,1,4
+178,First Degree Sexual/Child Abuse,District 2,Conviction,Jury Trial,0,0
+179,First Degree Sexual/Child Abuse,District 2,Conviction,Court Trial,0,1
+180,First Degree Sexual/Child Abuse,District 2,Conviction,Guilty Pleas,1,3
+181,First Degree Sexual/Child Abuse,District 2,No Conviction,Dismissals,0,0
+182,First Degree Sexual/Child Abuse,District 2,No Conviction,Not Guilty Verdict,0,0
+183,First Degree Sexual/Child Abuse,District 2,In Progress,Pending Cases,0,0
+184,First Degree Sexual/Child Abuse,District 3,Arrest,No Papered Cases,1,2
+185,First Degree Sexual/Child Abuse,District 3,Arrest,Papered Cases,7,4
+186,First Degree Sexual/Child Abuse,District 3,Conviction,Jury Trial,0,0
+187,First Degree Sexual/Child Abuse,District 3,Conviction,Court Trial,0,0
+188,First Degree Sexual/Child Abuse,District 3,Conviction,Guilty Pleas,2,3
+189,First Degree Sexual/Child Abuse,District 3,No Conviction,Dismissals,4,1
+190,First Degree Sexual/Child Abuse,District 3,No Conviction,Not Guilty Verdict,0,0
+191,First Degree Sexual/Child Abuse,District 3,In Progress,Pending Cases,1,0
+192,First Degree Sexual/Child Abuse,District 4,Arrest,No Papered Cases,8,4
+193,First Degree Sexual/Child Abuse,District 4,Arrest,Papered Cases,7,9
+194,First Degree Sexual/Child Abuse,District 4,Conviction,Jury Trial,0,0
+195,First Degree Sexual/Child Abuse,District 4,Conviction,Court Trial,1,0
+196,First Degree Sexual/Child Abuse,District 4,Conviction,Guilty Pleas,3,5
+197,First Degree Sexual/Child Abuse,District 4,No Conviction,Dismissals,2,3
+198,First Degree Sexual/Child Abuse,District 4,No Conviction,Not Guilty Verdict,0,0
+199,First Degree Sexual/Child Abuse,District 4,In Progress,Pending Cases,1,1
+200,First Degree Sexual/Child Abuse,District 5,Arrest,No Papered Cases,2,2
+201,First Degree Sexual/Child Abuse,District 5,Arrest,Papered Cases,10,4
+202,First Degree Sexual/Child Abuse,District 5,Conviction,Jury Trial,0,0
+203,First Degree Sexual/Child Abuse,District 5,Conviction,Court Trial,1,0
+204,First Degree Sexual/Child Abuse,District 5,Conviction,Guilty Pleas,8,0
+205,First Degree Sexual/Child Abuse,District 5,No Conviction,Dismissals,1,1
+206,First Degree Sexual/Child Abuse,District 5,No Conviction,Not Guilty Verdict,0,0
+207,First Degree Sexual/Child Abuse,District 5,In Progress,Pending Cases,0,3
+208,First Degree Sexual/Child Abuse,District 6,Arrest,No Papered Cases,6,6
+209,First Degree Sexual/Child Abuse,District 6,Arrest,Papered Cases,15,17
+210,First Degree Sexual/Child Abuse,District 6,Conviction,Jury Trial,0,0
+211,First Degree Sexual/Child Abuse,District 6,Conviction,Court Trial,0,0
+212,First Degree Sexual/Child Abuse,District 6,Conviction,Guilty Pleas,11,9
+213,First Degree Sexual/Child Abuse,District 6,No Conviction,Dismissals,4,4
+214,First Degree Sexual/Child Abuse,District 6,No Conviction,Not Guilty Verdict,0,0
+215,First Degree Sexual/Child Abuse,District 6,In Progress,Pending Cases,0,4
+216,First Degree Sexual/Child Abuse,District 7,Arrest,No Papered Cases,2,3
+217,First Degree Sexual/Child Abuse,District 7,Arrest,Papered Cases,9,14
+218,First Degree Sexual/Child Abuse,District 7,Conviction,Jury Trial,1,0
+219,First Degree Sexual/Child Abuse,District 7,Conviction,Court Trial,0,0
+220,First Degree Sexual/Child Abuse,District 7,Conviction,Guilty Pleas,4,4
+221,First Degree Sexual/Child Abuse,District 7,No Conviction,Dismissals,4,4
+222,First Degree Sexual/Child Abuse,District 7,No Conviction,Not Guilty Verdict,0,1
+223,First Degree Sexual/Child Abuse,District 7,In Progress,Pending Cases,0,5
+224,First Degree Theft,District 1,Arrest,No Papered Cases,3,2
+225,First Degree Theft,District 1,Arrest,Papered Cases,44,28
+226,First Degree Theft,District 1,Conviction,Jury Trial,1,0
+227,First Degree Theft,District 1,Conviction,Court Trial,1,0
+228,First Degree Theft,District 1,Conviction,Guilty Pleas,22,17
+229,First Degree Theft,District 1,No Conviction,Dismissals,18,7
+230,First Degree Theft,District 1,No Conviction,Not Guilty Verdict,2,0
+231,First Degree Theft,District 1,In Progress,Pending Cases,0,4
+232,First Degree Theft,District 2,Arrest,No Papered Cases,0,1
+233,First Degree Theft,District 2,Arrest,Papered Cases,11,6
+234,First Degree Theft,District 2,Conviction,Jury Trial,0,0
+235,First Degree Theft,District 2,Conviction,Court Trial,0,0
+236,First Degree Theft,District 2,Conviction,Guilty Pleas,8,2
+237,First Degree Theft,District 2,No Conviction,Dismissals,3,3
+238,First Degree Theft,District 2,No Conviction,Not Guilty Verdict,0,0
+239,First Degree Theft,District 2,In Progress,Pending Cases,0,1
+240,First Degree Theft,District 3,Arrest,No Papered Cases,2,2
+241,First Degree Theft,District 3,Arrest,Papered Cases,11,8
+242,First Degree Theft,District 3,Conviction,Jury Trial,0,0
+243,First Degree Theft,District 3,Conviction,Court Trial,0,0
+244,First Degree Theft,District 3,Conviction,Guilty Pleas,5,5
+245,First Degree Theft,District 3,No Conviction,Dismissals,5,2
+246,First Degree Theft,District 3,No Conviction,Not Guilty Verdict,0,0
+247,First Degree Theft,District 3,In Progress,Pending Cases,1,1
+248,First Degree Theft,District 4,Arrest,No Papered Cases,3,3
+249,First Degree Theft,District 4,Arrest,Papered Cases,4,9
+250,First Degree Theft,District 4,Conviction,Jury Trial,0,0
+251,First Degree Theft,District 4,Conviction,Court Trial,0,0
+252,First Degree Theft,District 4,Conviction,Guilty Pleas,1,1
+253,First Degree Theft,District 4,No Conviction,Dismissals,3,6
+254,First Degree Theft,District 4,No Conviction,Not Guilty Verdict,0,1
+255,First Degree Theft,District 4,In Progress,Pending Cases,0,1
+256,First Degree Theft,District 5,Arrest,No Papered Cases,6,9
+257,First Degree Theft,District 5,Arrest,Papered Cases,22,20
+258,First Degree Theft,District 5,Conviction,Jury Trial,0,0
+259,First Degree Theft,District 5,Conviction,Court Trial,0,0
+260,First Degree Theft,District 5,Conviction,Guilty Pleas,12,5
+261,First Degree Theft,District 5,No Conviction,Dismissals,10,7
+262,First Degree Theft,District 5,No Conviction,Not Guilty Verdict,0,0
+263,First Degree Theft,District 5,In Progress,Pending Cases,0,8
+264,First Degree Theft,District 6,Arrest,No Papered Cases,4,5
+265,First Degree Theft,District 6,Arrest,Papered Cases,14,14
+266,First Degree Theft,District 6,Conviction,Jury Trial,0,0
+267,First Degree Theft,District 6,Conviction,Court Trial,0,0
+268,First Degree Theft,District 6,Conviction,Guilty Pleas,7,6
+269,First Degree Theft,District 6,No Conviction,Dismissals,4,7
+270,First Degree Theft,District 6,No Conviction,Not Guilty Verdict,0,0
+271,First Degree Theft,District 6,In Progress,Pending Cases,3,1
+272,First Degree Theft,District 7,Arrest,No Papered Cases,2,3
+273,First Degree Theft,District 7,Arrest,Papered Cases,15,9
+274,First Degree Theft,District 7,Conviction,Jury Trial,0,0
+275,First Degree Theft,District 7,Conviction,Court Trial,1,0
+276,First Degree Theft,District 7,Conviction,Guilty Pleas,7,2
+277,First Degree Theft,District 7,No Conviction,Dismissals,5,4
+278,First Degree Theft,District 7,No Conviction,Not Guilty Verdict,0,0
+279,First Degree Theft,District 7,In Progress,Pending Cases,2,3
+280,Homicide,District 1,Arrest,No Papered Cases,1,0
+281,Homicide,District 1,Arrest,Papered Cases,44,26
+282,Homicide,District 1,Conviction,Jury Trial,1,0
+283,Homicide,District 1,Conviction,Court Trial,0,0
+284,Homicide,District 1,Conviction,Guilty Pleas,10,8
+285,Homicide,District 1,No Conviction,Dismissals,6,1
+286,Homicide,District 1,No Conviction,Not Guilty Verdict,0,0
+287,Homicide,District 1,In Progress,Pending Cases,27,17
+288,Homicide,District 2,Arrest,No Papered Cases,0,0
+289,Homicide,District 2,Arrest,Papered Cases,4,1
+290,Homicide,District 2,Conviction,Jury Trial,0,0
+291,Homicide,District 2,Conviction,Court Trial,0,0
+292,Homicide,District 2,Conviction,Guilty Pleas,2,0
+293,Homicide,District 2,No Conviction,Dismissals,0,0
+294,Homicide,District 2,No Conviction,Not Guilty Verdict,0,0
+295,Homicide,District 2,In Progress,Pending Cases,2,1
+296,Homicide,District 3,Arrest,No Papered Cases,0,0
+297,Homicide,District 3,Arrest,Papered Cases,7,1
+298,Homicide,District 3,Conviction,Jury Trial,0,0
+299,Homicide,District 3,Conviction,Court Trial,0,0
+300,Homicide,District 3,Conviction,Guilty Pleas,1,0
+301,Homicide,District 3,No Conviction,Dismissals,3,0
+302,Homicide,District 3,No Conviction,Not Guilty Verdict,0,0
+303,Homicide,District 3,In Progress,Pending Cases,3,1
+304,Homicide,District 4,Arrest,No Papered Cases,0,0
+305,Homicide,District 4,Arrest,Papered Cases,6,8
+306,Homicide,District 4,Conviction,Jury Trial,0,0
+307,Homicide,District 4,Conviction,Court Trial,0,0
+308,Homicide,District 4,Conviction,Guilty Pleas,2,1
+309,Homicide,District 4,No Conviction,Dismissals,0,0
+310,Homicide,District 4,No Conviction,Not Guilty Verdict,0,0
+311,Homicide,District 4,In Progress,Pending Cases,4,7
+312,Homicide,District 5,Arrest,No Papered Cases,1,0
+313,Homicide,District 5,Arrest,Papered Cases,13,13
+314,Homicide,District 5,Conviction,Jury Trial,0,0
+315,Homicide,District 5,Conviction,Court Trial,0,0
+316,Homicide,District 5,Conviction,Guilty Pleas,5,2
+317,Homicide,District 5,No Conviction,Dismissals,1,0
+318,Homicide,District 5,No Conviction,Not Guilty Verdict,0,0
+319,Homicide,District 5,In Progress,Pending Cases,7,11
+320,Homicide,District 6,Arrest,No Papered Cases,0,0
+321,Homicide,District 6,Arrest,Papered Cases,13,15
+322,Homicide,District 6,Conviction,Jury Trial,0,0
+323,Homicide,District 6,Conviction,Court Trial,0,0
+324,Homicide,District 6,Conviction,Guilty Pleas,4,1
+325,Homicide,District 6,No Conviction,Dismissals,2,4
+326,Homicide,District 6,No Conviction,Not Guilty Verdict,0,0
+327,Homicide,District 6,In Progress,Pending Cases,7,10
+328,Homicide,District 7,Arrest,No Papered Cases,1,2
+329,Homicide,District 7,Arrest,Papered Cases,20,20
+330,Homicide,District 7,Conviction,Jury Trial,1,0
+331,Homicide,District 7,Conviction,Court Trial,0,0
+332,Homicide,District 7,Conviction,Guilty Pleas,12,7
+333,Homicide,District 7,No Conviction,Dismissals,1,3
+334,Homicide,District 7,No Conviction,Not Guilty Verdict,0,0
+335,Homicide,District 7,In Progress,Pending Cases,6,10
+336,UUV,District 1,Arrest,No Papered Cases,23,38
+337,UUV,District 1,Arrest,Papered Cases,46,31
+338,UUV,District 1,Conviction,Jury Trial,2,0
+339,UUV,District 1,Conviction,Court Trial,0,0
+340,UUV,District 1,Conviction,Guilty Pleas,20,15
+341,UUV,District 1,No Conviction,Dismissals,21,11
+342,UUV,District 1,No Conviction,Not Guilty Verdict,0,1
+343,UUV,District 1,In Progress,Pending Cases,3,4
+344,UUV,District 2,Arrest,No Papered Cases,13,21
+345,UUV,District 2,Arrest,Papered Cases,17,13
+346,UUV,District 2,Conviction,Jury Trial,0,0
+347,UUV,District 2,Conviction,Court Trial,0,0
+348,UUV,District 2,Conviction,Guilty Pleas,9,6
+349,UUV,District 2,No Conviction,Dismissals,8,3
+350,UUV,District 2,No Conviction,Not Guilty Verdict,0,0
+351,UUV,District 2,In Progress,Pending Cases,0,4
+352,UUV,District 3,Arrest,No Papered Cases,1,17
+353,UUV,District 3,Arrest,Papered Cases,9,4
+354,UUV,District 3,Conviction,Jury Trial,0,0
+355,UUV,District 3,Conviction,Court Trial,0,0
+356,UUV,District 3,Conviction,Guilty Pleas,5,1
+357,UUV,District 3,No Conviction,Dismissals,4,2
+358,UUV,District 3,No Conviction,Not Guilty Verdict,0,0
+359,UUV,District 3,In Progress,Pending Cases,0,1
+360,UUV,District 4,Arrest,No Papered Cases,24,31
+361,UUV,District 4,Arrest,Papered Cases,23,14
+362,UUV,District 4,Conviction,Jury Trial,0,0
+363,UUV,District 4,Conviction,Court Trial,0,0
+364,UUV,District 4,Conviction,Guilty Pleas,7,5
+365,UUV,District 4,No Conviction,Dismissals,11,4
+366,UUV,District 4,No Conviction,Not Guilty Verdict,0,0
+367,UUV,District 4,In Progress,Pending Cases,5,5
+368,UUV,District 5,Arrest,No Papered Cases,64,72
+369,UUV,District 5,Arrest,Papered Cases,68,48
+370,UUV,District 5,Conviction,Jury Trial,1,0
+371,UUV,District 5,Conviction,Court Trial,0,0
+372,UUV,District 5,Conviction,Guilty Pleas,25,16
+373,UUV,District 5,No Conviction,Dismissals,37,21
+374,UUV,District 5,No Conviction,Not Guilty Verdict,0,0
+375,UUV,District 5,In Progress,Pending Cases,5,11
+376,UUV,District 6,Arrest,No Papered Cases,66,68
+377,UUV,District 6,Arrest,Papered Cases,77,58
+378,UUV,District 6,Conviction,Jury Trial,1,1
+379,UUV,District 6,Conviction,Court Trial,1,1
+380,UUV,District 6,Conviction,Guilty Pleas,30,27
+381,UUV,District 6,No Conviction,Dismissals,29,20
+382,UUV,District 6,No Conviction,Not Guilty Verdict,1,0
+383,UUV,District 6,In Progress,Pending Cases,15,9
+384,UUV,District 7,Arrest,No Papered Cases,56,38
+385,UUV,District 7,Arrest,Papered Cases,52,21
+386,UUV,District 7,Conviction,Jury Trial,0,0
+387,UUV,District 7,Conviction,Court Trial,1,0
+388,UUV,District 7,Conviction,Guilty Pleas,22,4
+389,UUV,District 7,No Conviction,Dismissals,27,14
+390,UUV,District 7,No Conviction,Not Guilty Verdict,1,0
+391,UUV,District 7,In Progress,Pending Cases,1,3
